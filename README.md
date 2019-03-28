@@ -1,0 +1,2 @@
+# Personal-blog
+Python, Django
